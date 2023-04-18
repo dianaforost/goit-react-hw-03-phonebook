@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 20%;
+}
+.inputName, 
+.inputNumber,
+.btn{
+    padding: 8px 14px;
+}
+.btn{
+    cursor: pointer;
+}
